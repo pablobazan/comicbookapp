@@ -1,16 +1,10 @@
 # comicbookapp
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/pablobazan/comicbookapp/assets/15861039/01bd2735-69eb-4d8c-bfd5-2ee53c7c78c1
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/pablobazan/comicbookapp/assets/15861039/3295e06a-4700-4fa1-aff8-e4fa8fd3e7fa
+
